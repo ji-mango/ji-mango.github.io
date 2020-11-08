@@ -75,7 +75,8 @@ categories:
 - **execve()** : 프로세스 실행
 = **exit()** : 프로세스 종료
 3. 삭제
-- **signal(^c)** : 프로세스에 어떠한 정보를 알리는 일종의 인터룹트 - **kill command(kill killsignal pid)** : 프로그램 강제종료
+- **signal(^c)** : 프로세스에 어떠한 정보를 알리는 일종의 인터룹트
+- **kill command(kill killsignal pid)** : 프로그램 강제종료
 
 <hr>
 
