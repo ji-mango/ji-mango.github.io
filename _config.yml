@@ -1,19 +1,19 @@
 # Site settings
-title: Lorem Ipsum - Web Developer
-description: "A blog about lorem ipsum ..."
+title: jimin's blog
+description: "A blog about ji-mango ..."
 baseurl: "" # for test: remove string '/space-jekyll-template' to ''
 url: "http://ji-mango.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.github.io'
 
 # User settings
-username: lorem ipsum
-user_title: Lorem Ipsum - FrontEnd
-email: lorem.lorem@ipsum.com
-twitter_username: loremipsum
-github_username:  loremipsum
-gplus_username:  loremipsum
-linkedin_public_url: loremipsum # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
-disqus_username: loremipsum
-profile_picture: https://68.media.tumblr.com/93f384858e9273d5b980b418e2f2f4d5/tumblr_o5i2aybLJG1uapsfmo2_250.png
+username: ji-min
+user_title: jiminLog
+email: susie000301@naver.com
+twitter_username: none
+github_username:  ji-mango
+gplus_username:  none
+linkedin_public_url: none # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
+disqus_username: none
+profile_picture: none
 
 # Build settings
 markdown: kramdown
@@ -47,11 +47,11 @@ links:
       key_trigger: 5
   section_2:
     - title: github
-      url: http://www.github.com/victorvoid
+      url: "https://github.com/ji-mango"
       new_tab: true
       key_trigger: g
     - title: twitter
-      url: http://www.twitter.com/victorvoid
+      url: none
       key_trigger: t
     - title: search
       url: ""
@@ -59,12 +59,8 @@ links:
 
 # projects in header index
 projects:
-  - name: fluany
-    url: https://github.com/fluany/fluany
-  - name: vim-frontend
-    url: https://github.com/victorvoid/vim-frontend
-  - name: generator-capybara
-    url: https://github.com/victorvoid/generator-capybara 
-
+  - name: turtle-racing-game
+    url: https://github.com/ji-mango/DKU/tree/master/1-2/%EB%8C%80%ED%95%99%EA%B8%B0%EC%B4%88SW%EC%9E%85%EB%AC%B8/turtle%20racing%20game
+  
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
