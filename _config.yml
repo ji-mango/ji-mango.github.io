@@ -47,15 +47,15 @@ links:
       key_trigger: 5
   section_2:
     - title: github
-      url: "https://github.com/ji-mango"
+      url: https://github.com/ji-mango
       new_tab: true
       key_trigger: g
-    - title: twitter
-      url: none
-      key_trigger: t
-    - title: search
-      url: ""
-      key_trigger: s #WARNING: search only works with "s"
+    #- title: twitter
+    #  url: none
+    #  key_trigger: t
+    #- title: search
+    #  url: ""
+    #  key_trigger: s #WARNING: search only works with "s"
 
 # projects in header index
 projects:
