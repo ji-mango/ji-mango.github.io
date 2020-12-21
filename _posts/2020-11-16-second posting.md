@@ -10,7 +10,7 @@ categories:
 -  subject record
 ---
 
-### ALU
+### ALU(Arithmetic Logic Unit)
 ALU는 컴퓨터 CPU의 한 부분으로 산술적, 논리적 연산을 수행한다. ALU에서 처리하는 데이터 중 숫자는 정수와 실수 두가지로 나뉜다. 오늘은 그 중 *정수의 표현법* 인 *2의 보수* 에 대해 알아보도록 한다.<br><br>
 
 ### Two's Complement
