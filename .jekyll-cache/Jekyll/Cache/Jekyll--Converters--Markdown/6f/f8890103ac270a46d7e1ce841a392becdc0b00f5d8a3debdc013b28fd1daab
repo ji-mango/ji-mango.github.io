@@ -1,0 +1,12 @@
+I"*<h3 id="1-print로-여러-문자열을-출력할-때-를-쓰면-문자열-사이에-공백이-생기고-를-쓰면-공백이-생기지-않는다">1. print로 여러 문자열을 출력할 때 “,”를 쓰면 문자열 사이에 공백이 생기고, “+”를 쓰면 공백이 생기지 않는다.</h3>
+<p>기초 100제 1018번) “시:분” 형식으로 출력</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>print("시",":","분")
+</code></pre></div></div>
+<p>–&gt;”시”, “:” “분” 사이에 공백이 생기기 때문에 잘못된 풀이로 처리되었다.</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>print("시"+":"+"분")
+</code></pre></div></div>
+<p>–&gt;”+”를 사용해 붙여서 출력해야 정답처리가 되었다.</p>
+
+<h3 id="2-input으로-입력받으면-문자열-문자열은-배열처럼-사용-가능하다">2. input으로 입력받으면 문자열, 문자열은 배열처럼 사용 가능하다</h3>
+
+:ET
